@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF Embeded Video", "WPF Embeded Video.csproj", "{385ED878-745D-43A9-9D05-DCC2B71BB701}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{385ED878-745D-43A9-9D05-DCC2B71BB701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385ED878-745D-43A9-9D05-DCC2B71BB701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385ED878-745D-43A9-9D05-DCC2B71BB701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385ED878-745D-43A9-9D05-DCC2B71BB701}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {900FD50E-B75B-4919-82C0-89E6CF084BC3}
+	EndGlobalSection
+EndGlobal

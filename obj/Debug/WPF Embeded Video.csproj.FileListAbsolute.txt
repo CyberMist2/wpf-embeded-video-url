@@ -1,0 +1,15 @@
+E:\WPF Embeded Video\WPF Embeded Video\bin\Debug\WPF Embeded Video.exe.config
+E:\WPF Embeded Video\WPF Embeded Video\bin\Debug\WPF Embeded Video.exe
+E:\WPF Embeded Video\WPF Embeded Video\bin\Debug\WPF Embeded Video.pdb
+E:\WPF Embeded Video\WPF Embeded Video\obj\Debug\WPF Embeded Video.csproj.AssemblyReference.cache
+E:\WPF Embeded Video\WPF Embeded Video\obj\Debug\MainWindow.g.cs
+E:\WPF Embeded Video\WPF Embeded Video\obj\Debug\App.g.cs
+E:\WPF Embeded Video\WPF Embeded Video\obj\Debug\WPF Embeded Video_MarkupCompile.cache
+E:\WPF Embeded Video\WPF Embeded Video\obj\Debug\WPF Embeded Video_MarkupCompile.lref
+E:\WPF Embeded Video\WPF Embeded Video\obj\Debug\MainWindow.baml
+E:\WPF Embeded Video\WPF Embeded Video\obj\Debug\WPF Embeded Video.g.resources
+E:\WPF Embeded Video\WPF Embeded Video\obj\Debug\WPF_Embeded_Video.Properties.Resources.resources
+E:\WPF Embeded Video\WPF Embeded Video\obj\Debug\WPF Embeded Video.csproj.GenerateResource.cache
+E:\WPF Embeded Video\WPF Embeded Video\obj\Debug\WPF Embeded Video.csproj.CoreCompileInputs.cache
+E:\WPF Embeded Video\WPF Embeded Video\obj\Debug\WPF Embeded Video.exe
+E:\WPF Embeded Video\WPF Embeded Video\obj\Debug\WPF Embeded Video.pdb
